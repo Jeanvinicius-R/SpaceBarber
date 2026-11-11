@@ -1,0 +1,17 @@
+{
+  "name": "SpaceBarber — Agenda e gestão",
+  "short_name": "SpaceBarber",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f7f7",
+  "theme_color": "#ffffff",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
