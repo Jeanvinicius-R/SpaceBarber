@@ -3,8 +3,8 @@
   "short_name": "SpaceBarber",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#f7f7f7",
-  "theme_color": "#ffffff",
+  "background_color": "#f7f5f1",
+  "theme_color": "#fffdfa",
   "lang": "pt-BR",
   "icons": [
     {

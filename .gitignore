@@ -32,6 +32,7 @@ yarn-error.log*
 
 # Local environment and keys
 .env*
+!.env.whatsapp.example
 .dev.vars*
 *.pem
 

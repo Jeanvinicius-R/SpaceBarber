@@ -6,7 +6,7 @@
     theme = value === 'dark' ? 'dark' : 'light';
     document.documentElement.dataset.theme = theme;
     document.documentElement.style.colorScheme = theme;
-    document.querySelector('meta[name="theme-color"]')?.setAttribute('content', theme === 'dark' ? '#0a0a0a' : '#ffffff');
+    document.querySelector('meta[name="theme-color"]')?.setAttribute('content', theme === 'dark' ? '#100e0c' : '#fffdfa');
     document.querySelectorAll('[data-action="toggle-theme"]').forEach(button => {
       const dark = theme === 'dark';
       button.setAttribute('aria-label', dark ? 'Ativar tema claro' : 'Ativar tema escuro');
